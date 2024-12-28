@@ -1,4 +1,15 @@
+EvoDiary è un'applicazione testuale per Debian Linux che funge da diario personale avanzato. Oltre alle funzionalità di base di inserimento, visualizzazione e ricerca di note, il diario integra capacità di Intelligenza Artificiale per analizzare, suggerire e collegare automaticamente i contenuti inseriti. Le principali caratteristiche includono:
+
+    Inserimento di Note: Aggiungi note testuali con categorie personalizzabili.
+    Visualizzazione e Ricerca: Visualizza tutte le note o cerca specifiche note tramite keyword.
+    Tagging Automatico: Estrazione automatica di parole chiave (tag) da ogni nota.
+    Suggerimento di Categorie: Un modello di machine learning suggerisce categorie per nuove note basandosi sui contenuti precedenti.
+    Collegamenti tra Note: Crea automaticamente collegamenti tra note correlate utilizzando le parole chiave.
+    Suggerimenti e Predizioni: Analizza trend e fornisce suggerimenti su cosa scrivere o rivedere.
+    Interfaccia Utente Elegante: Utilizza la libreria Rich per una TUI (Text User Interface) più interattiva e visivamente accattivante.
+
 Di seguito troverai una guida completa e aggiornata che riassume tutti i passaggi per preparare l'ambiente, installare le dipendenze, scaricare i dati necessari e il codice integrale di tutti i file, così come abbiamo costruito nel corso della discussione.
+
 Preparazione dell’Ambiente
 
     Installare Python e gli strumenti di base
